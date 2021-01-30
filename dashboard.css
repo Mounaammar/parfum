@@ -1,0 +1,54 @@
+
+nav{
+    background-color: #FA7A6C;
+   
+    box-shadow: 0px 5px rgba(0, 0, 0, 0.096);
+}
+h1.navbar-brand{
+    color: rgb(153, 33, 51) !important;
+    font-size: 25PX;
+   margin-left: 270px;
+
+}
+.btn{
+    font-size: 25PX;
+    color: white !important;
+    background-color: rgb(153, 33, 51) !important ;
+    text-decoration: none;
+}
+
+.d-flex{
+    position: absolute;
+    right: 50px;
+}
+.changement{
+    background-color:rgb(153, 33, 51) ;
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width:270px;
+    font-size: 18px;
+    box-shadow: 4px 0px rgba(0, 0, 0, 0.13);
+   
+}
+a.nav-link{
+    color:  rgb(245, 232, 212) !important;
+    padding: 20px 0px 20px  15px ;
+}
+.logo{
+    padding: 10px 20px 30px 0px;
+ 
+}
+.trait{
+    background-color: rgb(245, 232, 212);
+    width: 270px;
+    height: 3px ;
+    margin-bottom: 50px;
+      box-shadow: 0px 3px rgba(245, 232, 212, 0.13);
+
+}
+ .nav-link.active,  .show>.nav-link , .nav-link:hover{
+background-color: #FA7A6C !important;
+
+}
